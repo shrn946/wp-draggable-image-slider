@@ -36,3 +36,15 @@ Built for speed, simplicity, and full Elementor compatibility.
 6. To display the slider, add the following shortcode anywhere:
    ```php
    [drag_slider]
+
+
+   🔗 Inspiration & Credits
+
+Original Draggable Image Strip Demo by Codrops:
+https://tympanus.net/Development/DraggableImageStrip/
+
+This tutorial demonstrates a WordPress/Elementor implementation inspired by the original concept.
+
+GSAP: https://gsap.com/
+imagesLoaded: https://imagesloaded.desandro.com/
+
